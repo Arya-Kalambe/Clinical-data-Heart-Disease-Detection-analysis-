@@ -1,8 +1,6 @@
 # Clinical-data-Heart-Disease-Detection-analysis-
 Exploratory clinical data analysis and feature engineering for machine learning-based heart disease detection.
 
-# Clinical Data Analysis for Heart Disease Detection
-
 This project focuses on analyzing clinical health data to identify patterns, correlations, and key medical indicators associated with heart disease. It involves data preprocessing, exploratory data analysis (EDA), statistical analysis, and feature engineering to understand the relationship between clinical parameters and heart disease risk.
 
 The project aims to uncover significant clinical features that contribute to heart disease prediction and support the development of data-driven machine learning models.
