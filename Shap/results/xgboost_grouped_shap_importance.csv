@@ -1,0 +1,12 @@
+Feature,Mean_SHAP
+RestingECG,0.14191987
+RestingBP,0.16569276
+Age,0.19106981
+FastingBS,0.2764862
+MaxHR,0.28248084
+ExerciseAngina,0.31099838
+Oldpeak,0.36394364
+Sex,0.40258905
+Cholesterol,0.529828
+ChestPainType,0.89649886
+ST_Slope,1.5254251
